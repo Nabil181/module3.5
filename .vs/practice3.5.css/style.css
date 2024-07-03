@@ -1,5 +1,16 @@
 p{
     background-color: tomato;
-    padding:10px
-     ;
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px;
+    text-align: justify;
+    margin: 10px 100px;
+}
+header{
+    
+    padding:10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px;
+    text-align: justify;
+    margin: 10px 100px;
 }
